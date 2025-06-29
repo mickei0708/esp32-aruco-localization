@@ -131,7 +131,7 @@ color_map = {
     "cam_60": "magenta"
 }
 
-camera_img = Image.open("camera_icon.png").convert("RGBA").resize((40, 40))
+camera_img = Image.open("utils/camera_icon.png").convert("RGBA").resize((40, 40))
 
 def update_plot(frame):
     ax.clear()
