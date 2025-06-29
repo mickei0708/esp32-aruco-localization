@@ -38,8 +38,14 @@
 // ===========================
 // const char *ssid = "Josua-Surface";
 // const char *password = "012345678";
+// const char *ssid = "EL-NB-T126";
+// const char *password = "testtest";
+// const char *ssid = "Alex Handy";
+// const char *password = "AlexHandy1";
 const char *ssid = "MagentaWLAN-SJL3";
 const char *password = "52701051434120649585";
+// const char *ssid = "Patrick Wlan";
+// const char *password = "12345678";
 
 void startCameraServer();
 void setupLedFlash(int pin);
