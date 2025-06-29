@@ -137,11 +137,6 @@ python3 visualisierung.py
 
 ---
 
-## 💼 Lizenz
-
-Dieses Projekt steht unter der **MIT-Lizenz**.
-
----
 
 ## 🎉 Danksagung
 
